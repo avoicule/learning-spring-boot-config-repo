@@ -12,3 +12,7 @@ spring:
           group: comments-service
           content-type: application/json
   
+spring:
+  data:
+    mongodb:
+      uri: mongodb://alin:alin@ds037005.mlab.com:37005/mongolab_alin
