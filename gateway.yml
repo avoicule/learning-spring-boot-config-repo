@@ -9,3 +9,6 @@ spring:
         predicates:
         - Path=/baeldung/
 
+management:
+  security:
+    enabled: false
